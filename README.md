@@ -4,7 +4,7 @@
 
 ### Made with [Verly.js](https://github.com/uttambodara)
 
-![Slime](./assets/screenshot.png)
+![Screenshot 2024-06-15 135518](https://github.com/uttambodara/Slime/assets/129719033/bb9372f1-0ea4-48cc-90f0-1e1dabe97c2c)
 
 ### Check out other cool projects made with Verly.js
 
