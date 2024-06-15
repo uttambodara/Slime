@@ -1,8 +1,8 @@
 # Slime
 
-[Slime](http://anuraghazra.github.io/Slime) made with repel behaviors and low stiffness constraints.
+[Slime](https://slimeweb.netlify.app/) made with repel behaviors and low stiffness constraints.
 
-### Made with [Verly.js](https://github.com/anuraghazra/Verly.js)
+### Made with [Verly.js](https://github.com/uttambodara)
 
 ![Slime](./assets/screenshot.png)
 
@@ -15,10 +15,6 @@
 - [Happy Holi](https://anuraghazra.github.io/Verly.js/examples/typography/)
 - **See more [examples](https://anuraghazra.github.io/Verly.js/examples/)**
 
-## Author
-
-- https://anuraghazra.github.io
-- hazru.anurag@gmail.com
 
 Contributions Are Welcomed.
 
